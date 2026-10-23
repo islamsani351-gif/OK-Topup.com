@@ -1,23 +1,23 @@
+// ==================================================
+// WEBSITE NAME (OKTOPUP.COM)
 // =======================================================
-// WEBSITE NAME (NICKNAME)
-// =======================================================
-var website_name = "YASIN";
+var website_name = OK Topup.com
 
-// =======================================================
+// =====================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "telegram channel link";https://t.me/+T3w11yV21BBlZmNl
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
 var telegram_group_link = "telegram group link";
-
+https://t.me/+gRSxzemq1OMwNGY9
 // =======================================================
-// YOUTUBE CHANNEL LINK
+// YOUTUBE CHANNEL LINKh
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
-
+https://www.youtube.com/@JB.SANI999
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
